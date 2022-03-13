@@ -1,0 +1,9 @@
+<response>
+<id>recordSales_CA_1202_1221</id>
+<timeToRetry>2022-22</timeToRetry>
+<id>recordSales_CA_1202_1222</id>
+<timeToRetry>2022-22</timeToRetry>
+<id>recordSales_CA_1202_1223</id>
+<timeToRetry>2022-22</timeToRetry>
+<id>recordSales_CA_1202_1224</id>
+<timeToRetry>2022-22</timeToRetry>
